@@ -40,3 +40,5 @@ Output:
 Diversification score: 47%
 Comment: Your portfolio is moderately diversified.
 Action: Consider adding more asset types (e.g., ETFs or different sectors) to further balance risk.
+
+Tech stack: Next.js
